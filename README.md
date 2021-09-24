@@ -8,7 +8,7 @@
 ### About me
 - C#/Unity developer
 - Guitar player
-- Investor (crypto and stocks)
+- Crypto Investor
 
 ### Follow me
 
