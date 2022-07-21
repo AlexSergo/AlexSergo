@@ -1,6 +1,7 @@
 ![Header](https://github.com/AlexSergo/AlexSergo/blob/master/assets/header.jpg)
 
 ### Technologies
+![Kotlin](https://img.shields.io/badge/-Anroid-1e1e1e?style=for-the-badge&logo=android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-1e1e1e?style=for-the-badge&logo=kotlin)
 ![SQL](https://img.shields.io/badge/-SQL-1e1e1e?style=for-the-badge&logo=mysql)
 ![Unity](https://img.shields.io/badge/-Unity-1e1e1e?style=for-the-badge&logo=unity)
