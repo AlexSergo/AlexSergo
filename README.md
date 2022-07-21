@@ -4,10 +4,10 @@
 ![C#](https://img.shields.io/badge/-C%23-1e1e1e?style=for-the-badge&logo=С%23)
 ![SQL](https://img.shields.io/badge/-SQL-1e1e1e?style=for-the-badge&logo=mysql)
 ![Unity](https://img.shields.io/badge/-Unity-1e1e1e?style=for-the-badge&logo=unity)
+![Unity](https://img.shields.io/badge/-Kotlin-1e1e1e?style=for-the-badge&logo=kotlin)
 
 ### About me
-- C#/Unity developer
-- Guitar player
+- Mobile developer
 - Crypto Investor
 
 ### Follow me
