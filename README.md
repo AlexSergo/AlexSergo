@@ -7,9 +7,8 @@
 ![Unity](https://img.shields.io/badge/-Unity-1e1e1e?style=for-the-badge&logo=unity)
 ![C#](https://img.shields.io/badge/-C%23-1e1e1e?style=for-the-badge&logo=С%23)
 
-### About me
-- Mobile developer
-- Crypto Investor
+### Best friends
+Room, Coroutines, Retrofit, Dagger2
 
 ### Follow me
 
